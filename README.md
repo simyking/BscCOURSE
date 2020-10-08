@@ -1,0 +1,2 @@
+# BscCOURSE
+Bachelors defence works
